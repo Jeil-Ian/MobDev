@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BMICALC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F121394C-314C-4AB7-AF87-03751C091E5A}|BMICALC\\BMICALC.csproj|c:\\users\\admin\\source\\repos\\bmicalc\\bmicalc\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121394C-314C-4AB7-AF87-03751C091E5A}|BMICALC\\BMICALC.csproj|solutionrelative:bmicalc\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121394C-314C-4AB7-AF87-03751C091E5A}|BMICALC\\BMICALC.csproj|c:\\users\\admin\\source\\repos\\bmicalc\\bmicalc\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F121394C-314C-4AB7-AF87-03751C091E5A}|BMICALC\\BMICALC.csproj|solutionrelative:bmicalc\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BMICALC\\BMICALC\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BMICALC\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BMICALC\\BMICALC\\MainPage.xaml",
+              "RelativeToolTip": "BMICALC\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T17:42:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BMICALC\\BMICALC\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BMICALC\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BMICALC\\BMICALC\\MainPage.xaml.cs",
+              "RelativeToolTip": "BMICALC\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:41:04.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

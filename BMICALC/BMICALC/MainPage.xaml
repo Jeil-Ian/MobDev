@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BMICALC.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="15">
+
+            <Label 
+            Text="BMI Calculator"
+            FontSize="30"
+            FontAttributes="Bold"
+            HorizontalOptions="Center"/>
+
+            <Label Text="Height (meters)" />
+            <Entry
+            x:Name="heightEntry"
+            Placeholder="e.g., 1.70"
+            Keyboard="Numeric" />
+
+            <Label Text="Weight (kg)" />
+            <Entry
+            x:Name="weightEntry"
+            Placeholder="e.g., 65"
+            Keyboard="Numeric" />
+
+            <Button
+            Text="Compute BMI"
+            Clicked="OnCalculateClicked"
+            HeightRequest="50"/>
+
+            <Frame Padding="15" BorderColor="Gray">
+                <Label
+                x:Name="resultLabel"
+                Text="Result will appear here"
+                FontSize="18"
+                HorizontalOptions="Center"/>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
