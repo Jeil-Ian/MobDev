@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|c:\\users\\admin\\source\\repos\\todomaui_listview\\todomaui_listview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|solutionrelative:todomaui_listview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|c:\\users\\admin\\source\\repos\\todomaui_listview\\todomaui_listview\\todoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|solutionrelative:todomaui_listview\\todoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|c:\\users\\admin\\source\\repos\\todomaui_listview\\todomaui_listview\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|solutionrelative:todomaui_listview\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|c:\\users\\admin\\source\\repos\\todomaui_listview\\todomaui_listview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|solutionrelative:todomaui_listview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|c:\\users\\admin\\source\\repos\\todomaui_listview\\todomaui_listview\\todomaui_listview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C10D3E95-AEE1-4D11-8EC9-C65C65821BA6}|ToDoMaui_Listview\\ToDoMaui_Listview.csproj|solutionrelative:todomaui_listview\\todomaui_listview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ToDoMaui_Listview\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\MauiProgram.cs",
+              "RelativeToolTip": "ToDoMaui_Listview\\MauiProgram.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:54:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoMaui_Listview",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\ToDoMaui_Listview.csproj",
+              "RelativeDocumentMoniker": "ToDoMaui_Listview\\ToDoMaui_Listview.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\ToDoMaui_Listview.csproj",
+              "RelativeToolTip": "ToDoMaui_Listview\\ToDoMaui_Listview.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T16:10:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoMaui_Listview\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\MainPage.xaml*",
+              "RelativeToolTip": "ToDoMaui_Listview\\MainPage.xaml*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T16:06:58.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMaui_Listview\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\MainPage.xaml.cs",
+              "RelativeToolTip": "ToDoMaui_Listview\\MainPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAwwDcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:46:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoCLass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\ToDoCLass.cs",
+              "RelativeDocumentMoniker": "ToDoMaui_Listview\\ToDoCLass.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToDoMaui_Listview\\ToDoMaui_Listview\\ToDoCLass.cs",
+              "RelativeToolTip": "ToDoMaui_Listview\\ToDoCLass.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA+wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:06:37.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

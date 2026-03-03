@@ -1,0 +1,40 @@
+﻿using System;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
+using System.Collections.Generic;
+
+namespace ToDoMaui_Listview;
+
+public class ToDoClass : INotifyPropertyChanged
+{
+    public ToDoClass() { }
+
+    int _id { get; set; }
+    string _title { get; set; }
+    string _detail { get; set; }
+
+    public int id
+    {
+        get { return _id; }
+        set { _id = value; OnPropertyChanged(nameof(id)); }
+    }
+
+    public string title
+    {
+        get { return _title; }
+        set { _title = value; OnPropertyChanged(nameof(title)); }
+    }
+
+    public string detail
+    {
+        get { return _detail; }
+        set { _detail = value; OnPropertyChanged(nameof(detail)); }
+    }
+
+    public event PropertyChangedEventHandler? PropertyChanged;
+
+    protected virtual void OnPropertyChanged([CallerMemberName] string? propertyName = null)
+    {
+        PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+    }
+}
